@@ -15,7 +15,11 @@ The main factor for building these robots is the usage of a smart material calle
 # Kit 
 
 This kit requires:
-
+* Hot Glue Gun (and glue!)
+* Servo
+* Arduino + USB Downloading Cable
+* Battery
+* Fishing wire/twine
 
 
 # Instructional Video
@@ -25,13 +29,12 @@ The following video details the fabrication process and how to get started with 
 [![Hot Glue Video](vid1.JPG)](https://youtu.be/Q6ZeTa9HxxQ)
 
 
-<p>
-
 # Activities
 After following the video explore how you can:
 
-* Design and build a robot to optimize for forward speed
-* Explore xxxx
+* Design and build a locomoting robot to optimize for forward speed
+* Explore how to parameterize the robot and the effect this has on the performance
+* Building manipulators
 
 # Related research papers
 
