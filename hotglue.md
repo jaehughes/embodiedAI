@@ -7,6 +7,7 @@ The main factor for building these robots is the usage of a smart material calle
       style="float: centre; margin-right: 10px;" />
 <p>
 
+
 # Kit
 
 This kit requires:
