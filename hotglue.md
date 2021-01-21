@@ -1,6 +1,6 @@
 layout: page
-title: "PAGE TITLE"
-permalink: /URL-PATH/
+title: "Hot Glue Robots"
+permalink: /hotglue/
 
 
 # Introduction
