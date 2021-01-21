@@ -5,14 +5,18 @@ The main factor for building these robots is the usage of a smart material calle
 
 <img src="https://static.projects.iq.harvard.edu/files/styles/os_files_large/public/srtsandbox/files/20150417_114941.jpg?m=1434319287&itok=-ZDPG1nE"
       style="float: centre; margin-right: 10px;" />
-<p>
 
 
-# Kit
+
+
+
+
+
+# Kit 
 
 This kit requires:
 
-<p>
+
 
 # Instructional Video
 
