@@ -40,5 +40,5 @@ After following the video explore how you can:
 
 To explore related concept in research, and where similar approaches have been used in research, read the following papers:
 
-* 
+* Evolving Robots using HotGlue as a a temporary connection method.  Read the research paper [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0128444&xid=17259,15700021,15700124,15700186,15700190,15700201,15700248).
 *
