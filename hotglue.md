@@ -5,18 +5,22 @@ The main factor for building these robots is the usage of a smart material calle
 
 <img src="https://static.projects.iq.harvard.edu/files/styles/os_files_large/public/srtsandbox/files/20150417_114941.jpg?m=1434319287&itok=-ZDPG1nE"
       style="float: left; margin-right: 10px;" />
-
+<p>
 
 # Kit
 
 This kit requires:
 
+<p>
 
 # Instructional Video
 
 The following video details the fabrication process and how to get started with this activity.
 
 [![Hot Glue Video](vid1.jpg)](https://youtu.be/Q6ZeTa9HxxQ)
+
+
+<p>
 
 # Activities
 
