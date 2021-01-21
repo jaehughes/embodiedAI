@@ -17,13 +17,20 @@ This kit requires:
 
 The following video details the fabrication process and how to get started with this activity.
 
-[![Hot Glue Video](vid1.jpg)](https://youtu.be/Q6ZeTa9HxxQ)
+[![Hot Glue Video](vid1.JPG)](https://youtu.be/Q6ZeTa9HxxQ)
 
 
 <p>
 
 # Activities
+After following the video explore how you can:
 
-*
+* Design and build a robot to optimize for forward speed
+* Explore xxxx
 
 # Related research papers
+
+To explore related concept in research, and where similar approaches have been used in research, read the following papers:
+
+* 
+*
