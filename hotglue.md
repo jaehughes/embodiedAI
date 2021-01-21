@@ -16,7 +16,7 @@ This kit requires:
 
 The following video details the fabrication process and how to get started with this activity.
 
-[![Hot Glue Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/Q6ZeTa9HxxQ)
+[![Hot Glue Video](vid1.jpg)](https://youtu.be/Q6ZeTa9HxxQ)
 
 # Activities
 
